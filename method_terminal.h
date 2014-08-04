@@ -1,0 +1,4 @@
+TERMINAL::TERMINAL()
+{
+    object_type = OBJECT_TYPE_TERMINAL;
+}
